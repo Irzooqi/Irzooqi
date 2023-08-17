@@ -11,7 +11,7 @@ Hello there! I'm Yasir Irzooqi, a passionate and enthusiastic back-end developer
 
 ## 🛠️ Tech Stack
 
-- Programming Languages: JavaScript, Java, Python, C]
+- Programming Languages: JavaScript, Java, Python, C
 - Web Frameworks: Express.js
 - Databases: MongoDB
 - Version Control: Git
